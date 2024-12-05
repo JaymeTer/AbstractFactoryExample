@@ -1,0 +1,7 @@
+C:\Users\stonk\source\repos\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\AbstractFactoryExample.csproj.AssemblyReference.cache
+C:\Users\stonk\source\repos\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\AbstractFactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\stonk\source\repos\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\AbstractFactoryExample.exe.config
+C:\Users\stonk\source\repos\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\AbstractFactoryExample.exe
+C:\Users\stonk\source\repos\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\AbstractFactoryExample.pdb
+C:\Users\stonk\source\repos\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\AbstractFactoryExample.exe
+C:\Users\stonk\source\repos\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\AbstractFactoryExample.pdb
