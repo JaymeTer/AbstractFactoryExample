@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|c:\\users\\stonk\\source\\repos\\abstractfactoryexample\\abstractfactoryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|solutionrelative:abstractfactoryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|c:\\users\\stonk\\source\\repos\\abstractfactoryexample\\abstractfactoryexample\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|solutionrelative:abstractfactoryexample\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|c:\\users\\stonk\\source\\repos\\abstractfactoryexample\\abstractfactoryexample\\elvish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|solutionrelative:abstractfactoryexample\\elvish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|c:\\users\\stonk\\source\\repos\\abstractfactoryexample\\abstractfactoryexample\\ilanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|solutionrelative:abstractfactoryexample\\ilanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|c:\\users\\stonk\\source\\repos\\abstractfactoryexample\\abstractfactoryexample\\southlands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|solutionrelative:abstractfactoryexample\\southlands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|c:\\users\\stonk\\source\\repos\\abstractfactoryexample\\abstractfactoryexample\\ination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|solutionrelative:abstractfactoryexample\\ination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|c:\\users\\stonk\\source\\repos\\abstractfactoryexample\\abstractfactoryexample\\southlandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|solutionrelative:abstractfactoryexample\\southlandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|c:\\users\\stonk\\source\\repos\\abstractfactoryexample\\abstractfactoryexample\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|solutionrelative:abstractfactoryexample\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|c:\\users\\stonk\\source\\repos\\abstractfactoryexample\\abstractfactoryexample\\eastlandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|solutionrelative:abstractfactoryexample\\eastlandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|c:\\users\\stonk\\source\\repos\\abstractfactoryexample\\abstractfactoryexample\\eastlands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871274F1-20A2-4785-904B-22CE44F2649E}|AbstractFactoryExample\\AbstractFactoryExample.csproj|solutionrelative:abstractfactoryexample\\eastlands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SouthLandFactory.cs",
+              "DocumentMoniker": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\SouthLandFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryExample\\SouthLandFactory.cs",
+              "ToolTip": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\SouthLandFactory.cs",
+              "RelativeToolTip": "AbstractFactoryExample\\SouthLandFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:24:29.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EastLandFactory.cs",
+              "DocumentMoniker": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\EastLandFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryExample\\EastLandFactory.cs",
+              "ToolTip": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\EastLandFactory.cs",
+              "RelativeToolTip": "AbstractFactoryExample\\EastLandFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:20:42.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SouthLands.cs",
+              "DocumentMoniker": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\SouthLands.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryExample\\SouthLands.cs",
+              "ToolTip": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\SouthLands.cs",
+              "RelativeToolTip": "AbstractFactoryExample\\SouthLands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:18:00.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryExample\\Program.cs",
+              "ToolTip": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\Program.cs",
+              "RelativeToolTip": "AbstractFactoryExample\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:25:10.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILanguage.cs",
+              "DocumentMoniker": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\ILanguage.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryExample\\ILanguage.cs",
+              "ToolTip": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\ILanguage.cs",
+              "RelativeToolTip": "AbstractFactoryExample\\ILanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:52:25.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\Common.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryExample\\Common.cs",
+              "ToolTip": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\Common.cs",
+              "RelativeToolTip": "AbstractFactoryExample\\Common.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:05:07.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Elvish.cs",
+              "DocumentMoniker": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\Elvish.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryExample\\Elvish.cs",
+              "ToolTip": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\Elvish.cs",
+              "RelativeToolTip": "AbstractFactoryExample\\Elvish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:08:26.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INation.cs",
+              "DocumentMoniker": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\INation.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryExample\\INation.cs",
+              "ToolTip": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\INation.cs",
+              "RelativeToolTip": "AbstractFactoryExample\\INation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:58:19.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFactory.cs",
+              "DocumentMoniker": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\IFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryExample\\IFactory.cs",
+              "ToolTip": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\IFactory.cs",
+              "RelativeToolTip": "AbstractFactoryExample\\IFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:03:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EastLands.cs",
+              "DocumentMoniker": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\EastLands.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryExample\\EastLands.cs",
+              "ToolTip": "C:\\Users\\stonk\\source\\repos\\AbstractFactoryExample\\AbstractFactoryExample\\EastLands.cs",
+              "RelativeToolTip": "AbstractFactoryExample\\EastLands.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:09:52.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
